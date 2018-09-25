@@ -1,0 +1,36 @@
+students {
+	
+	
+	max-width:40%;
+	margin:auto;
+	font-size:25px;
+
+
+}
+
+student{
+	display:block;
+	padding-bottom:10px;
+}
+
+USN{
+	display:block;
+	color:rgb(200,10,20);
+}
+
+name{
+	display:block;
+}
+college{
+	display:block;
+}
+branch{
+	display:block;
+}
+year{
+	display:block;
+}
+e-mail{
+	display:block;
+}
+
